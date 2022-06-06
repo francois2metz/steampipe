@@ -18,7 +18,6 @@ require (
 	github.com/gin-contrib/static v0.0.1
 	github.com/gin-gonic/gin v1.7.2
 	github.com/go-git/go-git/v5 v5.4.2
-	github.com/golang/protobuf v1.5.2
 	github.com/google/uuid v1.3.0
 	github.com/hashicorp/go-cleanhttp v0.5.1
 	github.com/hashicorp/go-hclog v0.15.0
@@ -45,7 +44,7 @@ require (
 	github.com/stevenle/topsort v0.0.0-20130922064739-8130c1d7596b
 	github.com/turbot/go-kit v0.3.0
 	github.com/turbot/steampipe-plugin-sdk v1.8.0
-	github.com/ulikunitz/xz v0.5.8
+	github.com/ulikunitz/xz v0.5.10
 	github.com/zclconf/go-cty v1.8.2
 	github.com/zclconf/go-cty-yaml v1.0.2
 	golang.org/x/sync v0.0.0-20210220032951-036812b2e83c
@@ -90,6 +89,7 @@ require (
 	github.com/gogo/protobuf v1.3.2 // indirect
 	github.com/golang/glog v1.0.0 // indirect
 	github.com/golang/groupcache v0.0.0-20210331224755-41bb18bfe9da // indirect
+	github.com/golang/protobuf v1.5.2 // indirect
 	github.com/google/go-cmp v0.5.6 // indirect
 	github.com/gorilla/websocket v1.4.2 // indirect
 	github.com/hashicorp/errwrap v1.1.0 // indirect
